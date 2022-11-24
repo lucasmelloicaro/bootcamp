@@ -1,5 +1,5 @@
 # nuxt-firebase-auth
-
+nodev v14.21.1 (64-bit)
 ## Build Setup
 
 ```bash
