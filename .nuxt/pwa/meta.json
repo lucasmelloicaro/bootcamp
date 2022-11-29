@@ -21,6 +21,11 @@
       "content": "nuxt-firebase-auth-google-facebook"
     },
     {
+      "hid": "description",
+      "name": "description",
+      "content": "nodev v14.21.1 (64-bit) ## Build Setup"
+    },
+    {
       "hid": "og:type",
       "name": "og:type",
       "property": "og:type",
@@ -37,12 +42,18 @@
       "name": "og:site_name",
       "property": "og:site_name",
       "content": "nuxt-firebase-auth-google-facebook"
+    },
+    {
+      "hid": "og:description",
+      "name": "og:description",
+      "property": "og:description",
+      "content": "nodev v14.21.1 (64-bit) ## Build Setup"
     }
   ],
   "link": [
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.fdc3df30.json",
+      "href": "/_nuxt/manifest.306a4f15.json",
       "hid": "manifest"
     }
   ],
